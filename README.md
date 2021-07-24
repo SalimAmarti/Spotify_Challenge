@@ -23,7 +23,7 @@ Executive Summary
 -------
 
 - Over the years, energetic songs became more popular while acoustic songs have lost their mojo
-- Most popular artists whith more than 100 songs are Drake and Taylor Swift
+- Most popular artists with more than 100 songs are Drake and Taylor Swift
 - The most popular song is Peaches by Justin Bieber but popularity is influenced by recent songs (what people are mostly listening to today)
 - Short track titles are more successful
 - "Love" and "live" are the most used words in track titles
