@@ -47,4 +47,4 @@ Next steps / Improvements
 Infographics
 -------
 
-<img src="sleep_infographics_0001.jpg" width="30%">
+<img src="Spotify_challenge.png" width="100%">
