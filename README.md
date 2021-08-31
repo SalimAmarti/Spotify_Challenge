@@ -9,6 +9,8 @@ https://onyxdata.co.uk/data-dna-dataset-challenge/
 
 Every month, they organize a data visualization context on a given dataset. We had one full month to work on it and submit an entry.
 
+**[Update] I won the contest!! Click [here](https://www.linkedin.com/posts/salimamarti_onyx-data-datadna-july-dataset-challenge-activity-6827307533888188416-qlPM/) to see the LinkedIn post about it.**
+
 Sources
 -------
 
